@@ -15,15 +15,15 @@
 - 🔭 I’m working on **academic & personal projects** (Web & Database applications)  
 - 🌱 I’m currently learning **DevOps, Node.js, Oracle Database & Angular**  
 - 💬 Ask me about **Java, C#, PHP, Web Development & Databases**  
-- 📫 Reach me at: **hazem.fatnassi@example.com**  
+- 📫 Reach me at: **fatnassi.hazem2005@gmail.com**  
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hazem-fatnassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hazem Fatnassi" height="30" width="40" /></a>
-<a href="https://fb.com/hazem.fatnassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hazem Fatnassi" height="30" width="40" /></a>
-<a href="https://instagram.com/hazem_fatnassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazem_fatnassi" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/hazem-fatnassi](https://www.linkedin.com/in/fatnassi-hazem-467071307)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hazem Fatnassi" height="30" width="40" /></a>
+<a href="[https://fb.com/hazem.fatnassi](https://www.facebook.com/hazem.fatnassi.14)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hazem Fatnassi" height="30" width="40" /></a>
+<a href="[https://instagram.com/hazem_fatnassi](https://instagram.com/hazem_fatnassi)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazem_fatnassi" height="30" width="40" /></a>
 </p>
 
 ---
