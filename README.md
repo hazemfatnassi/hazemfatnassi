@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Fatnassi Hazem
 
-### 🎓 IT Student | 💻 Future Software & Web Developer | 🌍 From Tunisia
+### 🎓 IT Student | 💻 Future Software & Web Developer | 🌍 From Tunisia 🇹🇳
 
 <img align="right" alt="Coding animation" width="320" src="https://i.gifer.com/origin/1d/1dc2e92177c43cac5bd2f59de5381a15_w200.gif">
 
@@ -12,15 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=HazemFatnassi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
-- 🎓 I’m currently an **IT student** specializing in **Computer Science**
-- 🔭 I’m working on **academic & personal projects** (Web & Database applications)
-- 🌱 I’m currently learning **DevOps, Node.js, Oracle Database & Angular**
-- 💬 Ask me about **Java, C#, PHP, Web Development & Databases**
-- 📫 Reach me at: **fatnassi.hazem2005@example.com**
-
 ---
 
 <h3 align="center">Connect with Me</h3>
+- 📫 Reach me at: **fatnassi.hazem2005@example.com**
 <p align="center">
   <a href="https://www.linkedin.com/in/fatnassi-hazem-467071307" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" style="margin: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>
